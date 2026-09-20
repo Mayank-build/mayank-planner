@@ -1,0 +1,12 @@
+{
+  "name": "Mayank Planner",
+  "short_name": "Planner",
+  "description": "Personal monthly and weekly planning for Mayank.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0d18",
+  "theme_color": "#0a0d18",
+  "icons": [
+    { "src": "/planner-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
